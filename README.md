@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-Learning GoIT homework on HTML+CSS - #1
+# goit-markup-hw-02
+
+Learning GoIT homework on HTML+CSS - #2
